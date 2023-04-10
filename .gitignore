@@ -1,0 +1,8 @@
+.DS_Store
+.hugo_build.lock
+Thumbs.db
+assets/jsconfig.json
+hugo_stats.json
+public/
+resources/_gen/
+themes/
