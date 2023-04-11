@@ -2,7 +2,7 @@
 date: 2023-04-09T11:35:35+08:00
 title: "独木岛之屋"
 draft: false
-image: "img/portfolio/House_of_Dokki_Island/00.jpg"
+image: "img/portfolio/House_of_Dokki_Island/00.webp"
 showonlyimage: false
 weight: 25
 ---
@@ -11,11 +11,11 @@ weight: 25
 <!--more-->
 它没有远方，因为这其中的远方是真的什么都不存在——除了无尽的海洋。
 
-![](/img/portfolio/House_of_Dokki_Island/01.jpg)
+![](/img/portfolio/House_of_Dokki_Island/01.webp)
 
-![](/img/portfolio/House_of_Dokki_Island/02.jpg)
+![](/img/portfolio/House_of_Dokki_Island/02.webp)
 
-![](/img/portfolio/House_of_Dokki_Island/03.jpg)
+![](/img/portfolio/House_of_Dokki_Island/03.webp)
 
 通过 Archicad 25 + Lumion 12 + Photoshop 2021 完成。
 

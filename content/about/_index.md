@@ -14,4 +14,4 @@ draft: false
 
 于是，我整理归纳了这几年来，还算看得过去的作品——也算是对自己失败人生的一点交代。
 
-[1]: /img/about.jpg
+[1]: /img/about.webp

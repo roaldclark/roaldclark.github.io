@@ -2,7 +2,7 @@
 date: 2023-04-10T12:41:00+08:00
 title: "四叶草酒吧"
 draft: false
-image: "img/portfolio/Four_Leaf_Clover_Bar/00.jpg"
+image: "img/portfolio/Four_Leaf_Clover_Bar/00.webp"
 showonlyimage: false
 weight: 25
 ---
@@ -11,10 +11,10 @@ weight: 25
 <!--more-->
 在新加坡的唐人街，你我相聚于此。
 
-![](/img/portfolio/Four_Leaf_Clover_Bar/01.jpg)
+![](/img/portfolio/Four_Leaf_Clover_Bar/01.webp)
 
-![](/img/portfolio/Four_Leaf_Clover_Bar/02.jpg)
+![](/img/portfolio/Four_Leaf_Clover_Bar/02.webp)
 
-![](/img/portfolio/Four_Leaf_Clover_Bar/03.jpg)
+![](/img/portfolio/Four_Leaf_Clover_Bar/03.webp)
 
 > 转角的面具之下，是一种生活方式

@@ -2,7 +2,7 @@
 date: 2023-04-08T21:52:28+08:00
 title: "音爵咖啡馆"
 draft: false
-image: "img/portfolio/Tone_Lord_Cafe/00.jpg"
+image: "img/portfolio/Tone_Lord_Cafe/00.webp"
 showonlyimage: true
 weight: 25
 ---
@@ -11,25 +11,25 @@ weight: 25
 <!--more-->
 找寻一种文化或一个领域的经典，讲述那声音和颜色是怎样发展出来。
 
-![](/img/portfolio/Tone_Lord_Cafe/01.jpg)
+![](/img/portfolio/Tone_Lord_Cafe/01.webp)
 
 进入咖啡馆内，入口处的墙体向内延伸，将路径引导至半人高的展台前。顺着冷暖混杂的灯光向内看去，微微偏侧的接待台终于暴露出来。
 
-![](/img/portfolio/Tone_Lord_Cafe/02.jpg)
+![](/img/portfolio/Tone_Lord_Cafe/02.webp)
 
 在较为空旷的休息区，部分桌椅倾斜摆放。
 
-![](/img/portfolio/Tone_Lord_Cafe/03.jpg)
+![](/img/portfolio/Tone_Lord_Cafe/03.webp)
 
 木质的暖色调接待台与后方的冷色调装饰块形成对比。
 
-![](/img/portfolio/Tone_Lord_Cafe/04.jpg)
+![](/img/portfolio/Tone_Lord_Cafe/04.webp)
 
-![](/img/portfolio/Tone_Lord_Cafe/05.jpg)
+![](/img/portfolio/Tone_Lord_Cafe/05.webp)
 
-![](/img/portfolio/Tone_Lord_Cafe/06.jpg)
+![](/img/portfolio/Tone_Lord_Cafe/06.webp)
 
-![](/img/portfolio/Tone_Lord_Cafe/07.jpg)
+![](/img/portfolio/Tone_Lord_Cafe/07.webp)
 
 最早的想法非常简单，这是一个方形的场地嘛，那我就也弄得简单些。
 
