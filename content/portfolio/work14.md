@@ -2,7 +2,7 @@
 date: 2023-04-09T21:34:53+08:00
 title: "人行峡谷：元朗新唐人生态园"
 draft: false
-image: "img/portfolio/Pedestrian_Canyon_YLNTDEP/00.webp"
+image: "https://img10.360buyimg.com/ddimg/jfs/t20250411/175089/23/33517/96290/64361830Fa170d5fb/7e2c63368b23a9ad.jpg.webp"
 showonlyimage: true
 weight: 25
 ---
@@ -10,13 +10,13 @@ weight: 25
 第四代人行峡谷。配合现有低层及低密度的住宅社区，以及一些已规划的发展，将废地转变为绿色展示地带，营造出舒适、自然的氛围。
 <!--more-->
 
-![](/img/portfolio/Pedestrian_Canyon_YLNTDEP/01.webp)
+![][1]
 
-![](/img/portfolio/Pedestrian_Canyon_YLNTDEP/02.webp)
+![][2]
 
 上世纪七八十年代，香港成为世界货柜业龙头，当年葵涌的新填海土地非常缺乏，租金也昂贵，刚巧法庭裁定农地可作露天储存用途，所以业界就在邻近深圳的落马洲、元朗和流浮山等农地落脚，造成了今天棕地的货柜场及物流业用地特别多的现象。
 
-![](/img/portfolio/Pedestrian_Canyon_YLNTDEP/03.webp)
+![][3]
 
 被称为「棕地重灾区」的元朗区，2021 年棕地达约 1342 公顷，占同年棕地总面积 68.3%。
 
@@ -27,12 +27,19 @@ weight: 25
 2. 不少棕地形状和大小都较不规则，大多夹杂村落、寮屋、常耕或休耕农地、鱼塘等，而且欠缺能够配合高密度发展的基建如交通﹑排污系统等。
 3. 由于大部分棕地都是由业权持有人拥有，若规划过程确立为公期用途，要按照法例回收私人土地，必定会经过赔偿、转让及／或安置的程序。
 
-![](/img/portfolio/Pedestrian_Canyon_YLNTDEP/04.webp)
+![][4]
 
 唐人新村位于香港新界元朗区屏山南部，以低密度住宅为主。
 
-![](/img/portfolio/Pedestrian_Canyon_YLNTDEP/05.webp)
+![][5]
 
-![](/img/portfolio/Pedestrian_Canyon_YLNTDEP/06.webp)
+![][6]
 
 > 前往应许之地
+
+[1]: https://img10.360buyimg.com/ddimg/jfs/t20250411/48308/8/19148/293646/64361801F38af50e2/8eb723d0f6537d0a.jpg.webp
+[2]: https://img10.360buyimg.com/ddimg/jfs/t20250411/108785/19/38610/712897/643617d6Fe20de3ee/5c72ca32ddff2a24.jpg.webp
+[3]: https://img10.360buyimg.com/ddimg/jfs/t20250411/99846/34/35326/608681/64361803Ff2a3dd0f/675f95b37571f49f.jpg.webp
+[4]: https://img10.360buyimg.com/ddimg/jfs/t20250411/204783/14/31807/256028/64361834Fb3475f81/15bebefdb63ed8e5.jpg.webp
+[5]: https://img10.360buyimg.com/ddimg/jfs/t20250411/207688/38/29220/76915/64361865Fdb13d8e6/4bbcbb80236e7a8f.jpg.webp
+[6]: https://img10.360buyimg.com/ddimg/jfs/t20250411/138698/37/36080/635472/64361867F9520ea9c/72d20da71311416d.jpg.webp

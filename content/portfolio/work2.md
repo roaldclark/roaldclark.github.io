@@ -2,7 +2,7 @@
 date: 2023-04-08T21:46:44+08:00
 title: "White / Cube"
 draft: false
-image: "img/portfolio/White_Cube/00.webp"
+image: "https://img10.360buyimg.com/ddimg/jfs/t20250410/116606/20/33480/20625/64356aa1F0c63c883/87bafeacc67eeea3.jpg.webp"
 showonlyimage: false
 weight: 25
 ---
@@ -11,16 +11,19 @@ weight: 25
 <!--more-->
 关注建筑与自然的融合，探索人与建筑间日常生活的关系，以纯粹的色调感，传递直觉的构造之美。此亦为通过 3ds Max 2021 和 V-Ray 5 for 3ds Max 所完成的早期试验品。
 
-![](/img/portfolio/White_Cube/01.webp)
+![][1]
 
 考虑到城市文化与全球经济的快速发展与扩大，愈来愈多的人（摄影师、程序设计师等）会开始在意空间的美观与个人理念的表达。
 
 建筑本身与室内空间的整体协调感也就变得至关重要，尤其是在一处办公空间内。一个良好的空间场景既可以传递企业／工作室的理念，也可以让身处其中人感到些许放松。
 
-![](/img/portfolio/White_Cube/02.webp)
+![][2]
 
 通过简单的色调搭配，结合原建筑内的墙柱和灯光布置进行空间划分，并通过空间内不同摆件的线条感以产生视觉引导。
 
 > NO silver bullet
 >
 > 没有 银弹
+
+[1]: https://img10.360buyimg.com/ddimg/jfs/t20250410/117034/13/34213/81892/64356aa5F39bf7e29/9bd8bc9e7e1c94ba.jpg.webp
+[2]: https://img10.360buyimg.com/ddimg/jfs/t20250410/196243/30/34508/150192/64356ad8F86f0bd07/c62debf7b8e8aad5.jpg.webp
