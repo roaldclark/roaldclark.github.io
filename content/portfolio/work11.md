@@ -23,6 +23,10 @@ weight: 25
 
 ![][6]
 
+3D Modeling Software: SketchUp 2021
+
+Post-processing Software: Photoshop 2021
+
 > 梦中亦不存在的纯白之城
 
 [1]: https://img10.360buyimg.com/ddimg/jfs/t20250411/218044/14/26796/346602/64361167Fc79c870b/aeb7361811f25839.jpg.webp
