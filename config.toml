@@ -21,8 +21,8 @@ languageCode = "zh"
   #copyright = "&copy;2016 Your name or company"
   copyright = "&copy;2021 - 2023 Roald Clark"
   sidebarAbout = [
-    "我是 Roald Clark，一名致力于推广自由软件运动的艺术与设计学习生。",
-    "这里算是对我个人的一点交代。"
+    "我是 Roald Clark，一名致力于推广自由软件运动的艺术与设计学习（自修）生。",
+    "这里算是对自己失败人生的一点交代。"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
